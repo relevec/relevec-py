@@ -1,4 +1,7 @@
-from ../relevec import ReleVec
+from ..relevec import ReleVec
+
+# relevec % python3 -m rvp.test.t-01 
+
 
 # Create test classes and instances
 #Cn = ReleVec.get_specified_subclass('Cn', dim_names=['a','b','c'])
